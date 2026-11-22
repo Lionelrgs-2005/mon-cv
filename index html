@@ -7,11 +7,43 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+ associations
 <section id="associations">
   <h2>Associations</h2>
   <ul>
     <li>Nom de l'association : votre rôle</li>
   </ul>
 </section>
+
+ competences
+<section id="competences">
+  <h2>Compétences</h2>
+  <ul>
+    <li>HTML / CSS</li>
+    <li>Git et GitHub</li>
+    <li>Réseaux informatiques</li>
+  </ul>
+</section>
+
+<section id="formations">
+  <h2>Formations</h2>
+  <ul>
+    <li>2025-2026 : Licence 2 IRT, ESGIS</li>
+    <li>2024-2025 : Licence 1, ESGIS</li>
+    <li>Baccalauréat</li>
+  </ul>
+</section>
+ description
+<section id="description">
+  <h2>À propos de moi</h2>
+  <p>Étudiant en deuxième année d'informatique, passionné par le développement web et les réseaux.</p>
+</section>
+<header>
+  <h1>Je me nomme KOUNOU RÉGIS</h1>
+  <h2>Étudiant en L2 IRT</h2>
+</header>
+ main
+ main
+main
 </body>
 </html>
