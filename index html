@@ -7,6 +7,14 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+ associations
+<section id="associations">
+  <h2>Associations</h2>
+  <ul>
+    <li>Nom de l'association : votre rôle</li>
+  </ul>
+</section>
+
  competences
 <section id="competences">
   <h2>Compétences</h2>
@@ -36,5 +44,6 @@
 </header>
  main
  main
+main
 </body>
 </html>
