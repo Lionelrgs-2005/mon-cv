@@ -7,6 +7,9 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
+<section id="description">
+  <h2>À propos de moi</h2>
+  <p>Étudiant en deuxième année d'informatique, passionné par le développement web et les réseaux.</p>
+</section>
 </body>
 </html>
