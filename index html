@@ -7,9 +7,15 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+ description
 <section id="description">
   <h2>À propos de moi</h2>
   <p>Étudiant en deuxième année d'informatique, passionné par le développement web et les réseaux.</p>
 </section>
+<header>
+  <h1>Je me nomme KOUNOU RÉGIS</h1>
+  <h2>Étudiant en L2 IRT</h2>
+</header>
+ main
 </body>
 </html>
